@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . /app
 
 # Usa CMD para aceptar argumentos al ejecutar el contenedor
-CMD ["python", "main.py"]
+ENTRYPOINT ["python", "main.py"]
