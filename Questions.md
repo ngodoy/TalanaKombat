@@ -1,6 +1,6 @@
 # Preguntas
 
-### 1.Supongamos que en un repositorio GIT hiciste un commit y olvidaste un archivo. Explica cómo se soluciona si hiciste push, y cómo si aún no hiciste.
+### 1. Supongamos que en un repositorio GIT hiciste un commit y olvidaste un archivo. Explica cómo se soluciona si hiciste push, y cómo si aún no hiciste.
 Si aún no he hecho git push, usaría --amend:
 
 ```bash
@@ -20,7 +20,7 @@ git push --force
 ```
 
 
-### 2.Si has trabajado con control de versiones ¿Cuáles han sido los flujos con los que has trabajado?
+### 2. Si has trabajado con control de versiones ¿Cuáles han sido los flujos con los que has trabajado?
 He trabajo con varios workflow de git mucho muy parecedios con diferente nombre, 
 bitbucket y github y gitlab dan la opciones para personalizar y configuar eso workflow.
 Al final lo importante que es el equipo( los desarrolladores) entiendas de donde salen las rama y hacia donde van los pull request 
